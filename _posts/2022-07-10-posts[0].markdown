@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "posts[0]"
+date:   2022-07-10 10:53:21 -0400
+categories: general random
+---
+## Cheers, to the beginnings of a blog with dubious prospects.
+
+I've tried a few times to start up a "work blog" of sorts. One to fluff up my street cred, show that I know my stuff. Every time I try, I find that I don't really care enough about the _how-to_ space to write a blog like that. There's already a wealth of information online for literally every single subject that I would consider myself an expert on. What more do you need from me?
+
+Truthfully, what I'd rather write about is everything _adjacent_ to my job in Cloud. The career navigation, the way I prepare for exams (though that sounds dangerously like a how-to), and how I got to where I am. Not that "where I am" is some eschelon to be coveted, I'm still well on my way. But I started with a Photography degree, and now I'm here.
+
+There will be no writing schedule, there will be no vast archive with posts lovingly tagged with your exact flavor of DevOps principles, K8s hacks, or JavaScript frameworks. I'll do my best to share my thoughts as they arise, and as they seem worth the social anxiety of posting them online.
+
+Thanks for stopping by. You can find me in slack on https://cdk.dev, or shoot me an email at adam@adambigelow.com.
