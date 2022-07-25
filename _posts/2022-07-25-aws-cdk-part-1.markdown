@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "AWS CDK Part 1 - The Value of Learning By Doing"
-date:   2022-07-11 9:00:00 -0400
+date:   2022-07-25 19:30:00 -0400
 categories: aws-cdk iac growth technical
 ---
-{% highlight python %}
-This blog is the first in a series of posts about AWS CDK, a tool I have many opinions and thoughts about. It is not a how-to guide, but my hope is that you might resonate with the learning path I took and potentially see areas for improvement for either yourself or me. Feel free to reach out in slack @ cdk.dev either way!
-{% endhighlight %}
+
+### This blog is the first in a series of posts about AWS CDK, a tool I have many opinions and thoughts about. It is not a how-to guide, but my hope is that you might resonate with the learning path I took and potentially see areas for improvement for either yourself or me. Feel free to reach out in slack @ cdk.dev either way!
 
 A really obnoxious thing I like to say to people is, "Personal growth lies somewhere between what I'm comfortable doing and what I'm not capable of doing." It's my circuitous way of saying "get out of your comfort zone, it works!" and to be fair, it does.
 
