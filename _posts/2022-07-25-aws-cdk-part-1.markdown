@@ -4,7 +4,7 @@ title:  "AWS CDK Part 1 - The Value of Learning By Doing"
 date:   2022-07-11 9:00:00 -0400
 categories: aws-cdk iac growth technical
 ---
-{% highlight %}
+{% highlight python %}
 This blog is the first in a series of posts about AWS CDK, a tool I have many opinions and thoughts about. It is not a how-to guide, but my hope is that you might resonate with the learning path I took and potentially see areas for improvement for either yourself or me. Feel free to reach out in slack @ cdk.dev either way!
 {% endhighlight %}
 
